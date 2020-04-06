@@ -1,6 +1,6 @@
 ##Release
 
-### 1.0.6
+### 1.0.7
 ```shell script
 ├─20160712-Jvm
 ├─20160712-MysqInstall
